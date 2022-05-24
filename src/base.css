@@ -1,0 +1,10 @@
+div.time {
+    float: right; 
+    padding-right: 90%;
+}
+
+div.campo {
+    border: 1px solid;
+    margin: 1px;
+    border-color: black;
+}
