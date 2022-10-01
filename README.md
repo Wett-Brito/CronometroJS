@@ -14,8 +14,19 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 Para instalar o Cartao Aluno, siga estas etapas:
 
 Windows:
+
+Após subir um o projeto para uma IDE de sua escolha, execute o comando
+
 ```
-<comando_de_instalação>
+.\gradlew clean
+```
+
+Linux:
+
+Após subir um o projeto para uma IDE de sua escolha, execute o comando
+
+```
+./gradlew clean
 ```
 
 ## ☕ Usando Cartao Aluno
