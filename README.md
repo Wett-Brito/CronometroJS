@@ -6,18 +6,12 @@
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-* Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+* Você instalou a versão mais recente de `<Kotlin / Spring-boot / Mongo-DB / Swagger2>`
+* Você tem uma máquina `<Windows / Mac>`.
 
 ## 🚀 Instalando Cartao Aluno
 
 Para instalar o Cartao Aluno, siga estas etapas:
-
-Linux e macOS:
-```
-<comando_de_instalação>
-```
 
 Windows:
 ```
