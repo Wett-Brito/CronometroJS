@@ -23,7 +23,7 @@ Windows:
 Para usar Cartao Aluno, siga estas etapas:
 
 ```
-<exemplo_de_uso>
+Para poder consumir todas as requisições criadas nos projetos basta acessar o caminho do Swagger, após o projeto estar rodando. <localhost:8085/swagger-ui.html>
 ```
 
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
