@@ -27,8 +27,6 @@ Para poder consumir todas as requisições criadas nos projetos basta acessar o 
 após o projeto estar rodando. <localhost:8085/swagger-ui.html>
 ```
 
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
-
 ## 📫 Contribuindo para Cartao Aluno
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
 Para contribuir com Cartao Aluno>, siga estas etapas:
